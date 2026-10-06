@@ -1,0 +1,63 @@
+{
+  "records": [
+    {
+      "id": "certificate-history",
+      "kind": "certificates",
+      "payload": {
+        "id": "certificate-history",
+        "kind": "certificates",
+        "title": {
+          "uz": "Tarix",
+          "ru": "История",
+          "en": "History"
+        },
+        "body": {
+          "uz": "",
+          "ru": "",
+          "en": ""
+        },
+        "image": "",
+        "date": "",
+        "category": "",
+        "university": {
+          "uz": "",
+          "ru": "",
+          "en": ""
+        },
+        "year": "",
+        "published": true,
+        "count": 32
+      }
+    },
+    {
+      "id": "certificate-language",
+      "kind": "certificates",
+      "payload": {
+        "id": "certificate-language",
+        "kind": "certificates",
+        "title": {
+          "uz": "Ona tili",
+          "ru": "Родной язык",
+          "en": "Uzbek language"
+        },
+        "body": {
+          "uz": "",
+          "ru": "",
+          "en": ""
+        },
+        "image": "",
+        "date": "",
+        "category": "",
+        "university": {
+          "uz": "",
+          "ru": "",
+          "en": ""
+        },
+        "year": "",
+        "published": true,
+        "count": 42
+      }
+    }
+  ],
+  "settings": null
+}
